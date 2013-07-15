@@ -1,0 +1,40 @@
+# ###########################################
+# ######## _________________________ ########
+# ########|                         |########
+# ########|     SignColors v0.1     |########
+# ########|           by            |########
+# ########|         Pablo97         |########
+# ########|   All rights reserved.  |########
+# ########|_________________________|########
+# ####################<|>####################
+# ####################<|>####################
+# ####################<|>####################
+# ####################<|>####################
+## CONFIG:
+## The symbol in front of the colorcode e.g. &6.
+colorsymbol: '&'
+
+## Should the players craft the color signs?
+signcrafting: true
+
+## What for Items/Blocks should they use to craft them?
+## Sign (323)
+ingredientA: 323
+
+## Diamond (264)
+ingredientB: 264
+
+## How many signs should you get from a [SignColors] sign?
+signamount: 10
+
+## Price for 10 signs from a [SignColors] sign.
+price: 10.0
+
+## Sets the plugin language (de = german; en = english). 
+language: en
+
+## Should the plugin check for updates.
+updatecheck: true
+
+## Metrics for mcstats.org.
+metrics: true
